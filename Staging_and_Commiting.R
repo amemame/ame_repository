@@ -5,3 +5,7 @@
 #then commit the files to add them to the Git repository by pushing them (green arrow) 
 
 #don't push/ work on main branch but on branches
+#making some changes in the branch
+
+#pull every moring to get new changes 
+#push after you have significantly changed a project 
